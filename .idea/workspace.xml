@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e60ee5d-5a55-41b7-ba45-5dd7c8f0ad0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VisionTest2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/EyeExamService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PatientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/EyeExamService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Patient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/org/example/PatientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Patient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +51,11 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.PatientTest">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="VisionTest2" />
@@ -100,8 +86,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PatientTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.PatientTest" />
       </list>
     </recent_temporary>
   </component>
@@ -123,22 +109,22 @@
       <screen x="0" y="23" width="1366" height="698" />
     </state>
     <state x="467" y="245" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1366.698@0.23.1366.698" timestamp="1587471208125" />
-    <state width="1304" height="151" key="GridCell.Tab.0.bottom" timestamp="1587471622196">
+    <state width="1304" height="151" key="GridCell.Tab.0.bottom" timestamp="1587472115880">
       <screen x="0" y="23" width="1366" height="698" />
     </state>
-    <state width="1304" height="151" key="GridCell.Tab.0.bottom/0.23.1366.698@0.23.1366.698" timestamp="1587471622196" />
-    <state width="1304" height="151" key="GridCell.Tab.0.center" timestamp="1587471622195">
+    <state width="1304" height="151" key="GridCell.Tab.0.bottom/0.23.1366.698@0.23.1366.698" timestamp="1587472115880" />
+    <state width="1304" height="151" key="GridCell.Tab.0.center" timestamp="1587472115878">
       <screen x="0" y="23" width="1366" height="698" />
     </state>
-    <state width="1304" height="151" key="GridCell.Tab.0.center/0.23.1366.698@0.23.1366.698" timestamp="1587471622195" />
-    <state width="1304" height="151" key="GridCell.Tab.0.left" timestamp="1587471622194">
+    <state width="1304" height="151" key="GridCell.Tab.0.center/0.23.1366.698@0.23.1366.698" timestamp="1587472115878" />
+    <state width="1304" height="151" key="GridCell.Tab.0.left" timestamp="1587472115877">
       <screen x="0" y="23" width="1366" height="698" />
     </state>
-    <state width="1304" height="151" key="GridCell.Tab.0.left/0.23.1366.698@0.23.1366.698" timestamp="1587471622194" />
-    <state width="1304" height="151" key="GridCell.Tab.0.right" timestamp="1587471622196">
+    <state width="1304" height="151" key="GridCell.Tab.0.left/0.23.1366.698@0.23.1366.698" timestamp="1587472115877" />
+    <state width="1304" height="151" key="GridCell.Tab.0.right" timestamp="1587472115879">
       <screen x="0" y="23" width="1366" height="698" />
     </state>
-    <state width="1304" height="151" key="GridCell.Tab.0.right/0.23.1366.698@0.23.1366.698" timestamp="1587471622196" />
+    <state width="1304" height="151" key="GridCell.Tab.0.right/0.23.1366.698@0.23.1366.698" timestamp="1587472115879" />
     <state x="456" y="112" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587471322203">
       <screen x="0" y="23" width="1366" height="698" />
     </state>

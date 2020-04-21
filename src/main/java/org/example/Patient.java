@@ -1,6 +1,6 @@
 package org.example;
 
-public class Patient {
+public class Patient implements EyeExamService{
     private String name;
     private double birthday;
     private double height;
